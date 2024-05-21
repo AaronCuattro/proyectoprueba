@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Sección 1",
+        "file": "sec1/sec1.md",
+        "children": [
+            {
+                "title": "Sección 1.1",
+                "file": "sec1/subsec1/sec11.md"
+            },
+            {
+                "title": "Sección 1.2",
+                "file": "sec1/subsec1/sec12.md"
+            },
+            {
+                "title": "Sección 1.3",
+                "file": "sec1/subsec1/sec13.md"
+            },
+            {
+                "title": "Sección 1.4",
+                "file": "sec1/subsec1/sec14.md"
+            }
+        ]
+    },
+    {
+        "title": "Sección 2",
+        "file": "sec2/sec2.md",
+        "children": [
+            {
+                "title": "Sección 2.1",
+                "file": "sec2/subsec2/sec21.md",
+                "children": [
+                    {
+                        "title": "Sección 2.1.1",
+                        "file": "sec2/subsec2/subsubsec21/sec211.md"
+                    }
+                ]
+            },
+            {
+                "title": "Sección 2.2",
+                "file": "sec2/subsec2/sec22.md"
+            }
+        ]
+    },
+    {
+        "title": "Sección 3",
+        "file": "sec3/sec3.md"
+    }
+]
